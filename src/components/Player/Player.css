@@ -1,0 +1,6 @@
+.player {
+    
+}
+.player.player--active {
+    color: blue;
+}
